@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:shen="http://schemas.android.com/apk/res/shen.xianjie.myapplication"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <shen.myapplication.myapplication.ViewPagerIndicator
+        android:id="@+id/vp_indicator"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="#ff343434"
+        android:orientation="horizontal"
+        shen:tab_visiable_count="4">
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="短信1"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="收藏2"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="推荐3"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="短信4"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="收藏5"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="推荐6"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="短信7"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="收藏8"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="推荐9"
+            android:textColor="#ccffffff"
+            android:textSize="16.0sp" />
+    </shen.myapplication.myapplication.ViewPagerIndicator>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:background="#ffffffff" />
+</LinearLayout>

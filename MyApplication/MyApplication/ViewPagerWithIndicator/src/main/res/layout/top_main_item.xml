@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffffffff" android:padding="@dimen/item_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_img" android:layout_width="fill_parent" android:layout_height="160.0dip" android:src="@drawable/yzq_food_chunyangjiujia" android:scaleType="centerCrop" />
+    <LinearLayout android:orientation="vertical" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="40.0dip">
+        <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:layout_gravity="center_vertical" android:id="@id/tv_name" android:paddingTop="@dimen/item_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="吃行榜吃行榜吃行榜吃行榜" />
+        <RelativeLayout android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="25.0dip">
+            <TextView android:textSize="10.0sp" android:textColor="#87000000" android:id="@id/tv_district" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="渝中区" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="10.0sp" android:textColor="#87000000" android:id="@id/tv_zan_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="100" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <ImageView android:id="@id/iv_zan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/map_zan" android:layout_toLeftOf="@id/tv_zan_count" android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

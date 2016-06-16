@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/chat_bg_default">
+
+    <!-- <include layout="@layout/top" /> -->
+    <!-- <include layout="@layout/bottom" /> -->
+
+    <RelativeLayout
+        android:id="@+id/id_top"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/title_bar">
+
+        <TextView
+            android:id="@+id/id_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="小捷"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/id_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom_bar"
+        android:padding="3dp">
+
+        <Button
+            android:id="@+id/id_sendBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/send_btn_bg"
+            android:text="发送"/>
+
+        <EditText
+            android:id="@+id/id_editText"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/id_sendBtn"
+            android:background="@drawable/login_edit_normal"
+            android:hint="输入内容"
+            android:singleLine="false"/>
+    </RelativeLayout>
+
+    <!--
+         实现微信的聊天弹窗效果，
+    	让inputWindow不要遮挡listView的底部消息：android:transcriptMode="normal" + activity的android:windowSoftInputMode="adjustResize" 
+   		取消item被点击时的效果:android:listSelector="@android:color/transparent"
+    -->
+
+    <ListView
+        android:id="@+id/id_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/id_bottom"
+        android:layout_below="@id/id_top"
+        android:divider="@null"
+        android:dividerHeight="5dp"
+        android:listSelector="@android:color/transparent"
+        android:transcriptMode="normal"
+        >
+    </ListView>
+
+</RelativeLayout><!-- From: file:/E:/android_shen/workspace/MyApplication/Robot/res/layout/activity_main.xml -->

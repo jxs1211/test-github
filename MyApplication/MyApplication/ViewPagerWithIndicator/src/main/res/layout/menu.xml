@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_centerVertical="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/menu_item" />
+    <include layout="@layout/menu_item2" />
+    <include layout="@layout/menu_item3" />
+    <include layout="@layout/menu_item4" />
+    <include layout="@layout/menu_item5" />
+</LinearLayout>

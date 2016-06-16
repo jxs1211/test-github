@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffffffff" android:paddingLeft="@dimen/item_margin" android:paddingTop="@dimen/item_margin" android:layout_width="fill_parent" android:layout_height="170.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/v_split" android:background="@color/item_split" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:layout_alignParentTop="true" />
+    <ImageView android:id="@id/iv_img" android:background="@drawable/corner_bg" android:layout_width="fill_parent" android:layout_height="140.0dip" android:src="@drawable/yzq_food_chunyangjiujia" android:scaleType="centerCrop" android:layout_below="@id/v_split" android:layout_alignParentBottom="true" />
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/tv_name" android:background="@color/background_half_transparent_black" android:layout_width="fill_parent" android:layout_height="20.0dip" android:text="爱鱼者美" android:layout_alignParentBottom="true" />
+</RelativeLayout>

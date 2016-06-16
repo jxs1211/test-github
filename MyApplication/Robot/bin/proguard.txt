@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:34
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class xianjie.shen.robot.MainActivity { <init>(...); }
+

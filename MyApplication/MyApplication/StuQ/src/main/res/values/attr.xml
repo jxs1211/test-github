@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="my_imageview">
+        <attr name="iv_position" format="integer"/>
+        <attr name="iv_num" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="my_view">
+        <attr name="position" format="integer"/>
+        <attr name="num" format="integer"/>
+    </declare-styleable>
+</resources>

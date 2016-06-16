@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/id_bottom"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/bottom_bar"
+    android:padding="6dp">
+
+    <Button
+        android:id="@+id/id_sendBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="1dp"
+        android:background="@drawable/send_btn_bg"
+        android:minHeight="0dp"
+        android:text="发送"/>
+
+    <EditText
+        android:id="@+id/id_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/id_sendBtn"
+        android:background="@drawable/login_edit_normal"
+        android:hint="输入内容"
+        android:singleLine="false"
+        />
+
+</RelativeLayout><!-- From: file:/E:/android_shen/workspace/MyApplication/Robot/res/layout/bottom.xml -->

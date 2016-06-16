@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/item_state_normal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/item_margin" android:layout_marginTop="@dimen/item_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:id="@id/tv_stagg_item_name" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="yuzhongqu" />
+</FrameLayout>

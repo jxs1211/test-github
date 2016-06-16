@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:shen="http://schemas.android.com/apk/res/xianjie.shen.weixin60"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/tab_bg"
+    android:orientation="horizontal" >
+
+    <xianjie.shen.weixin60.TabView
+        android:id="@+id/id_tabView01"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        shen:icon="@drawable/ic_menu_start_conversation"
+        shen:text="@string/actionbar_name"
+        shen:text_size="10sp"
+        shen:color="#F25A8E" />
+
+    <xianjie.shen.weixin60.TabView
+        android:id="@+id/id_tabView02"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        shen:icon="@drawable/ic_menu_friendslist"
+        shen:text="@string/tab_contact"
+        shen:text_size="10sp"
+        shen:color="#F25A8E" />
+
+    <xianjie.shen.weixin60.TabView
+        android:id="@+id/id_tabView03"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        shen:icon="@drawable/ic_menu_emoticons"
+        shen:text="@string/tab_found"
+        shen:text_size="10sp"
+        shen:color="#F25A8E" />
+
+    <xianjie.shen.weixin60.TabView
+        android:id="@+id/id_tabView04"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        shen:icon="@drawable/ic_menu_allfriends"
+        shen:text="@string/tab_me"
+        shen:text_size="10sp"
+        shen:color="#F25A8E" />
+
+</LinearLayout><!-- From: file:/E:/android_shen/workspace/MyApplication/weixin60/res/layout/layout_tab.xml -->

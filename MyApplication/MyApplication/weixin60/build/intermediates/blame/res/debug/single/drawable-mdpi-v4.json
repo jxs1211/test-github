@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_friendslist.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_start_conversation.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_allfriends.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\drawable-mdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_emoticons.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\drawable-mdpi\\ic_menu_emoticons.png"
+    }
+]

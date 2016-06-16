@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\female.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\drawable-xxhdpi\\female.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\hint.9.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\drawable-xxhdpi\\hint.9.png"
+    },
+    {
+        "merged": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\male.png",
+        "source": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\drawable-xxhdpi\\male.png"
+    }
+]

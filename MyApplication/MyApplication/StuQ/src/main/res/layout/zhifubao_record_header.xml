@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="50dp"
+              android:background="#3A3A3A"
+              android:gravity="center_vertical"
+              android:orientation="horizontal">
+
+    <ImageView android:layout_width="29dp"
+               android:layout_height="29dp"
+               android:layout_margin="10dp"
+               android:src="@drawable/arrow_left"/>
+    <View android:layout_width="1dp"
+          android:layout_height="25dp"
+          android:background="#262626"/>
+    <TextView android:layout_width="0dp"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="20dp"
+              android:layout_marginRight="20dp"
+              android:layout_weight="1"
+              android:text="账单详情"
+              android:textColor="@android:color/white"
+              android:textSize="16sp"/>
+
+    <View android:layout_width="1dp"
+          android:layout_height="25dp"
+          android:background="#262626"/>
+
+    <TextView android:id="@+id/iv_more"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="10dp"
+              android:layout_marginLeft="28dp"
+              android:layout_marginRight="28dp"
+              android:layout_marginTop="10dp"
+              android:text="更多"
+              android:textColor="@android:color/white"
+              android:textSize="16sp"/>
+</LinearLayout>

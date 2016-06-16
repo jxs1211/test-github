@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StuQ2</string>
+    <string name="account">对方账户</string>
+    <string name="reason">理由</string>
+    <string name="detail">付款明细</string>
+    <string name="create">创建时间</string>
+</resources>

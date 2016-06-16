@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="tab_view"><attr format="color" name="color"/><attr format="string" name="text"/><attr format="dimension" name="text_size"/><attr format="reference" name="icon"/></declare-styleable>
+    <!-- From: file:/E:/android_shen/workspace/MyApplication/weixin60/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/android_shen/workspace/MyApplication/weixin60/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_add">添加</string>
+    <string name="actionbar_name">微信</string>
+    <string name="actionbar_search">查找</string>
+    <string name="menu_addfriend">添加朋友</string>
+    <string name="menu_feedback">帮助和反馈</string>
+    <string name="menu_group_chat">发起群聊</string>
+    <string name="menu_scan">扫一扫</string>
+    <string name="tab_contact">通讯录</string>
+    <string name="tab_found">发现</string>
+    <string name="tab_me">我</string>
+    <!-- From: file:/E:/android_shen/workspace/MyApplication/weixin60/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

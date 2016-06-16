@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\weixin60\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 563
+                    }
+                }
+            }
+        ]
+    }
+]

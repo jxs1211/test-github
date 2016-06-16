@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 44,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 44,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 44,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 46,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 46,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 52,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "E:\\android\\AndroidStudioProjects\\MyApplication\\MyApplication\\How-old\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

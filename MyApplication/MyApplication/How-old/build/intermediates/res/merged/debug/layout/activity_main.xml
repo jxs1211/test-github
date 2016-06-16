@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/id_ll_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/id_getImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/get_image_btn" />
+
+        <Button
+            android:id="@+id/id_detect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/get_age_btn" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/id_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/id_ll_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1"
+        android:src="@drawable/t4" />
+
+    <FrameLayout
+        android:id="@+id/id_waitting"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false" >
+
+        <ProgressBar
+            android:id="@+id/id_progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/id_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/hint"
+            android:drawableLeft="@drawable/male"
+            android:text="123"
+            android:textColor="#FFFF00FF"
+            android:textSize="22sp"
+            android:visibility="invisible"
+            />
+    </FrameLayout>
+
+</RelativeLayout>

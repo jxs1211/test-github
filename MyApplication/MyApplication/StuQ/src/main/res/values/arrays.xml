@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>对方账户</item>
+        <item>理由</item>
+        <item>付款明细</item>
+        <item>创建时间</item>
+        <item>对此订单有疑问?</item>
+    </string-array>
+    <string-array name="contents">
+        <item>小资酒店(*睿) 150****8741</item>
+        <item>房费</item>
+        <item>余额宝</item>
+        <item>2016-05-21 11:13</item>
+        <item>@null</item>
+    </string-array>
+    <string-array name="contents2">
+        <item>千嘉酒店</item>
+        <item>房费</item>
+        <item>余额宝</item>
+        <item>2016-04-29 11:55</item>
+    </string-array>
+    <string-array name="contents3">
+        <item>小资酒店</item>
+        <item>房费</item>
+        <item>余额宝</item>
+        <item>2016-05-21 16:07</item>
+    </string-array>
+    <string-array name="names">
+        <item>布努酒店</item>
+        <item>千嘉酒店</item>
+        <item>小资酒店</item>
+    </string-array>
+    <string-array name="jines">
+        <item>11920.00</item>
+        <item>20xx.00</item>
+        <item>10xx.00</item>
+    </string-array>
+    <string-array name="dates">
+        <item>2016-04-09 16:07</item>
+        <item>2016-04-29 11:55</item>
+        <item>2016-05-21 16:07</item>
+    </string-array>
+    <string-array name="info1">
+        <item>布努酒店</item>
+        <item>房费</item>
+        <item>余额宝</item>
+        <item>11920.00</item>
+        <item>2016-04-09 16:07</item>
+    </string-array>
+    <string-array name="info2">
+        <item>千嘉酒店</item>
+        <item>房费</item>
+        <item>余额宝</item>
+        <item>20x0.00</item>
+        <item>2016-04-29 11:55</item>
+    </string-array>
+    <string-array name="info3">
+        <item>小资酒店</item>
+        <item>房费</item>
+        <item>余额宝</item>
+        <item>1X20.00</item>
+        <item>2016-05-21 16:07</item>
+    </string-array>
+</resources>

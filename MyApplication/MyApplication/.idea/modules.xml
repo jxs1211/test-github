@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/How-old/How-old.iml" filepath="$PROJECT_DIR$/How-old/How-old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageLoader/ImageLoader.iml" filepath="$PROJECT_DIR$/ImageLoader/ImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeishiCQ2/MeishiCQ2.iml" filepath="$PROJECT_DIR$/MeishiCQ2/MeishiCQ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StuQ/StuQ.iml" filepath="$PROJECT_DIR$/StuQ/StuQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csdn/csdn.iml" filepath="$PROJECT_DIR$/csdn/csdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StuQ/stuq2.iml" filepath="$PROJECT_DIR$/StuQ/stuq2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin60/weixin60.iml" filepath="$PROJECT_DIR$/weixin60/weixin60.iml" />
+    </modules>
+  </component>
+</project>
